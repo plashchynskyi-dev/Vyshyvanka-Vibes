@@ -1,0 +1,76 @@
+body {
+    font-family: Manrope, sans-serif;
+    color: #FCF9F9;
+    background-color: #1C2225;
+    font-size: 14px;
+    line-height: 1.28;
+    font-weight: 400;
+    par
+    letter-spacing: 0em;
+    font-style: normal;
+}
+
+p {
+    font-family: Manrope, sans-serif;
+    color: #FCF9F966;
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: -0.04em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+ul,
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    color: #FCF9F9;
+
+}
+h2 {
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 1.45;
+    letter-spacing: -0.03em;
+    color: #FCF9F9;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 0.05em;
+    color: #FCF9F9;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+a {
+    color: #FCF9F9;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
